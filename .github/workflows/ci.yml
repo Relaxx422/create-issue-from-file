@@ -111,3 +111,5 @@ jobs:
 
             [1]: https://github.com/peter-evans/create-pull-request
           branch: update-distribution
+- name: Lychee Broken Link Checker
+  uses: lycheeverse/lychee-action@v2.4.1
